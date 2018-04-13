@@ -6,7 +6,7 @@
 
   - [EasyCI 整体架构](./intro_framework.md)
 
-  - [有关 CI 及「单元测试」](./intro_ci_unit_test.md)
+  - [有关「CI」及「单元测试」](./intro_ci_unit_test.md)
 
 ### 二、安装
 

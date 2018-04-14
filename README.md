@@ -14,6 +14,8 @@
   
   - [EasyCI 前端程序的部署](./install_front_end.md)
 
+  - [EasyCI 插件系统的部署](./install_plugin.md)
+
 ### 三、快速开始
 
   - [Android 项目构建](./quick_android.md)

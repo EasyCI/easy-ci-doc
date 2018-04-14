@@ -8,4 +8,4 @@
     <a href="./install_front_end.md">下一节：EasyCI 前端程序的部署</a>
 </div>
 
-<link rel="stylesheet" rev="stylesheet" href="easy-ci.css" type="text/css"/>
+<link rel="stylesheet" rev="stylesheet" href="./assets/css/easy-ci.css" type="text/css"/>

@@ -8,4 +8,4 @@
     <a href="./other_about.md">下一节：关于</a>
 </div>
 
-<link rel="stylesheet" rev="stylesheet" href="easy-ci.css" type="text/css"/>
+<link rel="stylesheet" rev="stylesheet" href="./assets/css/easy-ci.css" type="text/css"/>

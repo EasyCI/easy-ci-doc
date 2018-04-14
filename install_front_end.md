@@ -8,4 +8,4 @@
     <a href="./quick_android.md">下一节：Android 项目构建</a>
 </div>
 
-<link rel="stylesheet" rev="stylesheet" href="easy-ci.css" type="text/css"/>
+<link rel="stylesheet" rev="stylesheet" href="./assets/css/easy-ci.css" type="text/css"/>

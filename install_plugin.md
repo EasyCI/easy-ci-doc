@@ -17,7 +17,7 @@
 
 ### 配置运行环境
 
-保证系统中安装的 Python 版本为 3.5+，并安装 pip 工具，可以从这里查看 [pip 安装](http://docs.python-guide.org/en/latest/starting/installation/) 方法。
+保证系统中安装的 Python 版本为 3.5+，并安装 pip 工具，可以从这里查看 **[pip 安装方法](http://docs.python-guide.org/en/latest/starting/installation/)** 。
 
 运行以下命令通过 pip 安装 Python 第三方库
 

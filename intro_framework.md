@@ -5,7 +5,7 @@
 <center>
 <div>
 <img src="./assets/img/logo-angular.svg" width="160px;"></img>
-<img src="./assets/img/logo-spring-boot.svg" width="130px" style="margin-bottom: 16px;"></img>
+<img src="./assets/img/logo-spring-boot.svg" width="130px"></img>
 <img src="./assets/img/logo-python.png" width="160px;"></img>
 </div>
 <b>前端（Angular） + 后端（Java Spring Boot） + 插件（Python）</b>

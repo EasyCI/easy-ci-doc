@@ -42,6 +42,10 @@ git clone -b master https://github.com/EasyCI/easy-ci-plugin.git
 <br/><br/><br/>
 
 <div id="bom">
+    <a href="./README.md">返回目录首页</a>
+</div>
+<br>
+<div id="bom">
     <a href="./install_front_end.md">上一节：EasyCI 前端程序的部署</a>
     &nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="./quick_android.md">下一节：Android 项目构建</a>

@@ -23,6 +23,10 @@
 <br/><br/><br/>
 
 <div id="bom">
+    <a href="./README.md">返回目录首页</a>
+</div>
+<br>
+<div id="bom">
     <a href="./other_question.md">上一节：常见问题</a>
 </div>
 

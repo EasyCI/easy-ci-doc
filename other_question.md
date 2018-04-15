@@ -23,6 +23,10 @@
 <br/><br/><br/>
 
 <div id="bom">
+    <a href="./README.md">返回目录首页</a>
+</div>
+<br>
+<div id="bom">
     <a href="./quick_android.md">上一节：Android 项目构建</a>
     &nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="./other_about.md">下一节：关于</a>

@@ -70,6 +70,10 @@ ls dist
 <br/><br/><br/>
 
 <div id="bom">
+    <a href="./README.md">返回目录首页</a>
+</div>
+<br>
+<div id="bom">
     <a href="./install_back_end.md">上一节：EasyCI 后端服务的部署</a>
     &nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="./install_plugin.md">下一节：EasyCI 插件系统的部署</a>

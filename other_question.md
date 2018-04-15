@@ -8,7 +8,7 @@
 
 - EasyCI 插件系统中集成了 fir.im 上传托管功能，只需要在项目配置时选择 **fir 上传插件**，并填写 **fir** 注册账户下的个人 API Token；
 
-- fir Api Token 可以登录 **[fir.im](https://fir.im) 站点，在右上角的个人中心位置找到。
+- fir Api Token 可以登录 **[fir.im](https://fir.im)** 站点，在右上角的个人中心位置找到。
 
 ## 首次构建项目卡在「初始化环境」步骤
 

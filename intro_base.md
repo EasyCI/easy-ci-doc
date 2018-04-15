@@ -31,6 +31,7 @@
 <div id="bom">
     <a href="./README.md">返回目录首页</a>
 </div>
+<br>
 <div id="bom">
     <a href="./intro_framework.md">下一节：EasyCI 整体架构</a>
 </div>

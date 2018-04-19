@@ -66,7 +66,7 @@ server:
 
 # Custom Configuration
 custom:
-  serverHost: http://6629e695.ngrok.io   # 后端服务程序部署的服务器主机地址（需要具有公网访问权限！）
+  serverHost: http://example.com:8080   # 后端服务程序部署的服务器主机地址及启动端口号（需要具有公网访问权限！）
   githubClientId: 384bd7c1472f8f66807d
   githubClientSecret: 8dbb5c28d0bdcac525e0ad13c508442fbb91a3e9
   githubAuthorizationScopes: user:email,repo
@@ -88,12 +88,6 @@ ls *.jar
 
 ```
 java -jar your-app.jar
-```
-
-默认通过 8080 端口启动（依据程序编译前配置文件中 server.port 项参数），若需要从其它端口启动可添加 `--server.port` 参数，例如：
-
-```
-java -jar your-app.jar --server.port=8090
 ```
 
 如果控制台没有报错，可在浏览器中输入 `http://localhost:8080` 进行验证，若看到 **Hello!** 字样，表明服务启动成功！

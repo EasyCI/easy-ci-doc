@@ -51,6 +51,7 @@ ls app-back-end-api.ts
 
 ```
 cd ../../../   # 退回到 src/ 同级目录下
+npm install
 ng build --prod
 ls dist
 ```

@@ -40,7 +40,7 @@ npm install -g @angular/cli
 git clone -b master https://github.com/EasyCI/easy-ci-web.git
 ```
 
-从以下位置，找到文件 `app-back-end-api.ts` ，修改开头的 **Back End Host Address** 条目参数为上一章节中 EasyCI 后端服务程序配置的主机地址。
+从以下位置，找到文件 `app-back-end-api.ts` ，修改开头的 **Back End Host Address** 条目参数为上一章节中 EasyCI 后端服务程序配置的主机地址及启动端口号，例如：`http://example.com:8080`。
 
 ```
 cd ./easy-ci-web/src/app/core/
